@@ -1,0 +1,12 @@
+{
+	"name": "free_ifm",
+	"version": "0.0.1",
+	"author": "Mularchick Pavel",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"express-generator": "^4.16.1",
+		"prompt-sync": "^4.2.0"
+	}
+}
